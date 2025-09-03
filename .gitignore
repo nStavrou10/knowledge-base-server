@@ -7,3 +7,4 @@ __pycache__/
 *.pyc
 .cache/
 .pytest_cache/
+*.tmp
